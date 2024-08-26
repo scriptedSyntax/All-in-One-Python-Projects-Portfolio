@@ -43,4 +43,4 @@ while True:
     play_again = input("do you want to play again? (yes/no)").lower()
     if play_again != "yes":
         break
-print("Bye!")
+print("Bye! And don't come back!")
