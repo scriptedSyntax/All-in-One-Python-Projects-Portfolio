@@ -44,3 +44,4 @@ while True:
     if play_again != "yes":
         break
 print("Bye! And don't come back!")
+print("thank you for playing this game. https://www.fiverr.com/users/mrcodebuddy")
