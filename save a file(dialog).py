@@ -17,7 +17,7 @@ def saveFile():
     file.write(filetext)
     file.close()
 
-window = Tk()        #creates a window
+window = Tk()
 
 text = Text(window)
 text.pack()
